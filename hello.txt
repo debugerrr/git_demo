@@ -1,6 +1,8 @@
 heladsfadfslo atguigu ! hello git!
 dklafjkajio
 ;sdfkljasfjkld ;jl;22222222222222222222222
-hot fisdx
+<<<<<<< HEAD
 master txt
-1
+=======
+hot fidfa
+>>>>>>> hot-fix
